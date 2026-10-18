@@ -1,7 +1,6 @@
 
 # CommandPad - CircuitPython firmware
 # Board: Seeed XIAO RP2040
-# Status: Prepared, not yet tested on physical hardware.
 
 import time
 import board
