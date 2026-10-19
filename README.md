@@ -1,6 +1,6 @@
 # CommandPad
 ---
-A 5-key macropad with rotary encoder, and rgb LEDs. 
+A 5-key macropad with rotary encoder, and rgb LEDs. Which is used for all ur imp shortcuts!
 
 
 Note: This ReadME is writtern by Syed Ihteshamuddin (human ofc), So if some mistakes are occurred please highlight.   
